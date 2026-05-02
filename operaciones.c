@@ -21,5 +21,5 @@ int multiplicar(int a, int b) {
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 /* Funcion esPar: calcula y retorna si el entero recibido es par */
 int esPar(int n) {
-    return (n % 2) == 0;
+    return (n % 2) == 0; /* version main */
 }
